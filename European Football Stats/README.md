@@ -15,6 +15,5 @@ This repository contains a Power BI model template (.pbit) for the European Foot
 ## Additional information
 - In the report, you will find different pages with Players, Clubs and Competition Statistics.
 - There are two drill-through pages available (Clubs statistics and Player statistics).
-- The accuracy of the stats depends on the starting Dataset.
 - This is a WIP project.
 - In the **.pdf file**, you can see an example of how the report looks like.
