@@ -1,6 +1,7 @@
 # Power BI Report - Health Data
 
-This repository contains a Power BI model (.pbix) for the Health Data Project
+This repository contains a Power BI model (.pbix) for the Health Data Project.
+This report provides a comprehensive overview of global health trends and countries indicators regarding population, migration etc.
 
 The dataset is downladed from the Kaggle dataset (.csv files): 
 [https://www.kaggle.com/datasets/davidcariboo/player-scores](https://www.kaggle.com/datasets/realhamzanet/world-health-indicators-dataset)
